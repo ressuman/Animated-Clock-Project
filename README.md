@@ -21,7 +21,7 @@ The goal of this project is to demonstrate my understanding of basic JavaScript 
 
 ## ☕ Resources
 
-If you need help with any of the concepts covered in this project, here are some resources that might find useful:
+If you need help with any of the concepts covered in this project, here are some resources that might be useful:
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [W3Schools](https://www.w3schools.com/js/)
